@@ -1,0 +1,30 @@
+.menu {
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    grid-area: menuu;
+&__logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display:inline-block;
+}
+
+&__nav {
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+&__nav a {
+    list-style-type: none;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+&__input {
+    border-radius: 30px;
+    display: inline-block;
+}
+}
