@@ -2,7 +2,7 @@
 
 ## Ver proyecto
 
-- [Sitio web revista online] (https://joaquincruzat.github.io/revista_online/)
+- [Sitio web revista online](https://joaquincruzat.github.io/revista_online/)
 
 ## Descripción
 
